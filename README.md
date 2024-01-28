@@ -3,6 +3,7 @@
 ## 欢迎来到魔法社服务器 Wiki
 
 新版 Wiki 准备中，你可以查看已存在的页面
+
 新 Wiki 托管于 Github Pages
 
 [你还可以在此 Gitub 仓库编辑修改此 Wiki：DGEHS-MFS/dgehs-mfs.github.io](https://github.com/DGEHS-MFS/dgehs-mfs.github.io)
