@@ -6,7 +6,7 @@
 
 新 Wiki 托管于 Github Pages
 
-[你还可以在此 Gitub 仓库编辑修改此 Wiki：INF-Mythos/INF-Myhos.github.io](https://github.com/INF-Mythos/INF-Myhos.github.io)
+[你还可以在此 Gitub 仓库编辑修改此 Wiki：INF-Mythos/INF-Mythos.github.io](https://github.com/INF-Mythos/INF-Mythos.github.io)
 
 ## 已有页面
 
@@ -16,7 +16,7 @@
 
 ### 一周目
 
-[服务器一周目 Wiki]( https://INF-Myhos.github.io/1st/)（未准备好）
+[服务器一周目 Wiki]( https://INF-Mythos.github.io/1st/)（未准备好）
 
 ### 二周目
 
@@ -24,5 +24,5 @@
 
 ### 魔法社：传奇
 
-[魔法社：传奇 Wiki]( https://INF-Myhos.github.io/Legends-Wiki/)
+[魔法社：传奇 Wiki]( https://INF-Mythos.github.io/Legends-Wiki/)
 
